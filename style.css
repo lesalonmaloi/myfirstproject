@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* This is the Navbar Section */
+nav {
+    color: whitesmoke;
+    height: 5rem;
+    margin-top: 2rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a {
+    margin: 2rem;
+    top: 4rem;
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+/* This is the body of the page */
+.body {
+    height: 70vh;
+    background-image: url(/images/images.jpeg);
+    background-size: cover;
+}
