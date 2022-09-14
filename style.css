@@ -16,7 +16,7 @@ nav ul {
 }
 
 nav ul li a {
-    margin: 2rem;
+    margin: 2.00rem;
     top: 4rem;
     text-decoration: none;
     color: black;
@@ -27,6 +27,11 @@ nav ul li a {
 /* This is the body of the page */
 .body {
     height: 70vh;
-    background-image: url(/images/images.jpeg);
-    background-size: cover;
+    background-color: blue;
+
+}
+img{margin: top 40%;
+    margin-bottom: 60%;
+    margin-left: 40%;
+    margin-right: 60%;
 }
